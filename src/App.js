@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HomePgae from './homepage.component';
+import HomePgae from './pages/homepage/homepage.component';
 
 function App() {
   return (
